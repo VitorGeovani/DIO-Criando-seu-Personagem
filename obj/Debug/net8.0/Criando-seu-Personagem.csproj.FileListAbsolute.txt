@@ -12,3 +12,4 @@ D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-s
 D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\Criando-seu-Personagem.pdb
 D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\Criando-seu-Personagem.genruntimeconfig.cache
 D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\ref\Criando-seu-Personagem.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\Criando-seu-Personagem.sourcelink.json
