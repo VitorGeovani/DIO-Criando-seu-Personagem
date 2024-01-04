@@ -1,0 +1,14 @@
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\bin\Debug\net8.0\Criando-seu-Personagem.exe
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\bin\Debug\net8.0\Criando-seu-Personagem.deps.json
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\bin\Debug\net8.0\Criando-seu-Personagem.runtimeconfig.json
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\bin\Debug\net8.0\Criando-seu-Personagem.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\bin\Debug\net8.0\Criando-seu-Personagem.pdb
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\Criando-seu-Personagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\Criando-seu-Personagem.AssemblyInfoInputs.cache
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\Criando-seu-Personagem.AssemblyInfo.cs
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\Criando-seu-Personagem.csproj.CoreCompileInputs.cache
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\Criando-seu-Personagem.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\refint\Criando-seu-Personagem.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\Criando-seu-Personagem.pdb
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\Criando-seu-Personagem.genruntimeconfig.cache
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-seu-Personagem\obj\Debug\net8.0\ref\Criando-seu-Personagem.dll
